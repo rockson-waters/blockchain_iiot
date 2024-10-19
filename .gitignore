@@ -1,0 +1,8 @@
+optimization/logs
+optimization/input-parameters
+optimization/output
+optimization/out_old
+optimization/old_files
+out/
+out_100_sets_each
+out_10_sets_each
